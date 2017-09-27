@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Student
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: a1603209
+Implementation-Vendor-Id: hagahelia.fi
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/Student/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
