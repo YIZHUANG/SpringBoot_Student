@@ -15,8 +15,8 @@ public String getStudent(Model model){
 	
 	ArrayList<List> list=new ArrayList<List>();
 	
-	List student1=new List("John","lenon","damn@asd.com");
-	List student2=new List("Lenard","ha","daman@asd.com");
+	List student1=new List("John","lenon","John@hotmail.com");
+	List student2=new List("Lenard","ha","Leonard@hotmail.com");
 	list.add(student1);
 	list.add(student2);
 	model.addAttribute("students",list);
